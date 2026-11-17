@@ -1,0 +1,6 @@
+{
+  "name": "MediConnect — Luxury Healthcare & Doctor Appointment Platform",
+  "description": "A comprehensive online doctor appointment, telemedicine, and clinical care coordination platform connecting patients, verified specialists, and healthcare administrators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
